@@ -1,4 +1,4 @@
-Full Stack Developer based in Brooklyn. I design, build, and operate **[WeSwapCards](https://weswapcards.com)**, a production fullstack platform with **980+ users**, **16,000+ transactions**, and **200,000+ messages exchanged**>. I am currently extending it with a TypeScript-based React Native mobile app. Before engineering, I spent 13+ years in localization at Booking.com.
+Full Stack Developer based in Brooklyn. I design, build, and operate **[WeSwapCards](https://weswapcards.com)**, a production fullstack platform with **980+ users**, **16,000+ transactions**, and **200,000+ messages exchanged**. I am currently extending it with a TypeScript-based React Native mobile app. Before engineering, I spent 13+ years in localization at Booking.com.
 
 🌐 Portfolio: **[alexadupin.vercel.app](https://alexadupin.vercel.app)**
 
