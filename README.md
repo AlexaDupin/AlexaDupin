@@ -1,6 +1,6 @@
-Full Stack Developer based in Brooklyn. I design, build, and operate **[WeSwapCards](https://weswapcards.com)** — a production fullstack platform with **980+ users**, **16,000+ transactions**, and **200,000+ messages exchanged** — and am currently extending it with a TypeScript-based React Native mobile app. Before engineering, I spent 13+ years in localization at Booking.com.
+Full Stack Developer based in Brooklyn. I design, build, and operate **[WeSwapCards](https://weswapcards.com)**, a production fullstack platform with **980+ users**, **16,000+ transactions**, and **200,000+ messages exchanged**>. I am currently extending it with a TypeScript-based React Native mobile app. Before engineering, I spent 13+ years in localization at Booking.com.
 
-🌐 Portfolio: **[[alexadupin.vercel.app]](https://alexadupin.vercel.app)**
+🌐 Portfolio: **[alexadupin.vercel.app](https://alexadupin.vercel.app)**
 
 ---
 
@@ -38,10 +38,3 @@ Full Stack Developer based in Brooklyn. I design, build, and operate **[WeSwapCa
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
-
----
-
-## GitHub Stats
-
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexaDupin&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexaDupin&layout=compact&theme=tokyonight)
